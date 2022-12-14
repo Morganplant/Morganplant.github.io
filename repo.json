@@ -166,7 +166,7 @@
       "version": "1.10.8",
       "icon": "https://iosninja.io/img/ipas/inds.png",
       "down": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
-      "category": "Emulators",
+      "category": "MTP-Custom",
       "description": "",
       "bundleID": "net.nerd.iNDS"
     }
