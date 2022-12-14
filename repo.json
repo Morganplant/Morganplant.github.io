@@ -159,5 +159,16 @@
       "description": "A Fan-build of Delta, an all-in-one classic video game emulator for non-jailbroken iOS devices",
       "bundleID": "com.ianclawson.DeltaPacEdition"
     }
+  ],
+  "MTP-Custom":[
+    {
+      "name": "iNDS",
+      "version": "1.10.8",
+      "icon": "https://iosninja.io/img/ipas/inds.png",
+      "down": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
+      "category": "Emulators",
+      "description": "",
+      "bundleID": "net.nerd.iNDS"
+    }
   ]
 }
